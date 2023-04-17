@@ -13,7 +13,7 @@ Click or Tap, Drag and drop, Double Click to rotate
 ### COMPATIBILITY
 Tested browsers:  
 - Desktop: Chrome, Firefox, Safari
-- Mobile: Firefox, Chrome, Opera 
+- Mobile: Firefox, Chrome, Opera
 
 Please use Brave Browser on both Desktop and Mobile for the best performance.
 

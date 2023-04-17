@@ -1,6 +1,6 @@
 <a href="https://sagerverma.github.io/PACKABUNCHAS/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/pnDw2hL/pngfind-com-click-here-button-transparent-2200541.png" alt="android" wight="1000" height="60"/> </a>
 
-# [PACKABUNCHAS](https://sagerverma.github.io/PACKABUNCHAS/) 
+# [PACKABUNCHAS](https://sagervrma.github.io/PACKABUNCHAS/) 
 You are Spacey, from the PACKABUNCHAS, a group of space rangers specialized in packing and rescuing creatures around the galaxy!
 Solve tons of colorful tiling puzzles, in five different game modes. 
 Any mode is fine as long as you rescue everyone, and there is no hurry, so relax and take your time!
